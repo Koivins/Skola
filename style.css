@@ -1,0 +1,200 @@
+.fons {
+    background-image: url(https://images.pexels.com/photos/2760856/pexels-photo-2760856.jpeg?cs=srgb&dl=pexels-jeffrey-czum-2760856.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 1310px;
+}
+.button {
+    margin-left: 80%;
+    padding: 15px 32px;
+    background-color: #77716b;
+    color: black;
+    border-color: black;
+    border-width: 10px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 1000;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+h1 {
+    text-align: center;
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    color: #77716b;
+    text-decoration: underline  #77716b;
+}
+h3 {
+    text-align: left;
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    color: #77716b;
+    text-decoration: underline  #77716b;
+}
+.MI h4 {
+    text-align: left;
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+}
+.LV h4 {
+    text-align: left;
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+}
+.NY {
+    box-sizing: border-box;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background-color: #77716b;
+    width: 600px;
+    height: 250px;
+}
+.NY h4 {
+    text-align: left;
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+}
+.NY p1 {
+    text-align: center;
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+.LV {
+    box-sizing: border-box;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background-color: #77716b;
+    width: 600px;
+    height: 250px;
+}
+.LV p2 {
+    text-align: center;
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+.MI {
+    box-sizing: border-box;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background-color: #77716b;
+    width: 600px;
+    height: 250px;
+}
+.MI p3 {
+    text-align: center;
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+.name {
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 16px;
+    color: #77716b;
+    margin-left: 40px;
+    margin-bottom: -20px;
+}
+.email {
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 16px;
+    color: #77716b;
+    margin-left: 40px;
+}
+.button1 {
+    position:relative; left: 210px; top: 15px;
+    padding: 10px 15px;
+    background-color: #77716b;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 1000;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.image1 {
+    position: absolute;
+    width: 300px;
+    height: 230px;
+    left: 760px;
+    top: 350px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.image2 {
+    position: absolute;
+    width: 270px;
+    height: 200px;
+    left: 970px;
+    top: 650px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.image3 {
+    position: absolute;
+    width: 270px;
+    height: 200px;
+    left: 740px;
+    top: 930px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.jaunumi {
+    margin-left: 0px;
+    font-family: "Cormorant Unicase";
+    font-size: 16px;
+    color: #77716b;
+    font-weight: 1000;
+}
+.kaste {
+    margin-left: 40px;
+}
+.alert {
+    color: red;
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+.lugums {
+    color: #77716b;
+    font-family: "Cormorant Unicase";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+.name-box {
+    margin-left: 93px;
+}
